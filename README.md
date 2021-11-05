@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning mySQL/noSQL and Node.
--  ⚡ Hobbies: I love to play Final Fantasy XIV.
+- 🌱 I’m currently learning NodeJS.
+-  ⚡ Hobbies: I love to play games.
 
 ### Languages and Tools:
 
